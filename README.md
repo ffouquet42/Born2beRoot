@@ -15,7 +15,7 @@ our own operating system while implementing strict rules.
 
 ## What's in this project
 
-The project consists in setting up a virtual machine, this repo only contains the english and french subjects.
+The project consists in setting up a virtual machine, this repo only contains the `English` and `French` subjects.
 
 ## Credit
 
